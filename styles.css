@@ -1,1 +1,11 @@
-h1 {color: blue;}
+h2 {color: blue;}
+
+/* #FFF6E9 colorhunt  https://colorhunt.co/palette/40a2e3fff6e9bbe2ec0d9276 */
+
+.first-section {padding: 3rem 1.5rem;
+                text-align: center;
+                background: #40A2E3;
+                
+
+                height: 300px;
+                width: 100%;}
