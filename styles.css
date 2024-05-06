@@ -1,18 +1,28 @@
 h2 {color: #0D9276;}
 
-/* #FFF6E9 colorhunt  https://colorhunt.co/palette/40a2e3fff6e9bbe2ec0d9276 */
-
 .first-section {padding: 13rem 1.5rem;
                 text-align: center;
-                background: #40A2E3;
+                background: linear-gradient(45deg, #40A2E3, #0D9276);
                 height: 500px;
                 width: 100%;}
 
-#second-section {background: #FFF6E9;
-                margin-left: 0px;
-                margin-right: 0px;}
+.three-pd {padding: 6rem 0rem;}
+
+.bg-gr {background: #0D9276;}
+
+.bg-br {background: #BBE2EC;}                
 
 .cover-photo {background-size: cover;
-    background-position-x: center;}
+              background-position-x: center;}
 
 .my-icon {background: #FFF6E9;}
+
+#second-section {background: #FFF6E9;
+                margin-left: 0px;
+                margin-right: 0px;
+                padding-top: 4rem;
+                padding-bottom: 3rem;}
+
+#third-section {text-align: center;}
+
+/* colorhunt  https://colorhunt.co/palette/40a2e3fff6e9bbe2ec0d9276 */
